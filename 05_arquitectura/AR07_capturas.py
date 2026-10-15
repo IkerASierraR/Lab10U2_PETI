@@ -6,7 +6,10 @@ informe muestre la ejecución y enlace el archivo de texto original en GitHub.
 
 Uso (desde la raíz del repositorio):
     python 05_arquitectura/AR07_capturas.py
+    
 """
+
+
 import textwrap
 from pathlib import Path
 
